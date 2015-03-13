@@ -1,0 +1,122 @@
+
+body
+{
+    background-color: #ffffff;
+    color: #000000;
+    font-family: sans-serif;
+    padding: 0px 10px 10px 10px;
+    margin-top: 0px;
+}
+
+body, td, p, div, ul, li, h1, h2, h3, h4, h5, h6
+{
+    font-family: sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6
+{
+}
+
+table, table td
+{
+    border-collapse: collapse;
+    padding: 0px;
+    margin: 0px;
+}
+
+#page
+{
+    background-color: #ffffff;
+    color: #000000;
+    width: 1180px;
+    margin: 0 auto 0 auto;
+    border: 0px #666666 solid;
+    padding: 0px 5px 5px 5px;
+}
+
+#header
+{
+    text-align: right;
+    background-color: #ff6000;
+    color: #ffffff;
+    font-weight: bold;
+    padding: 7px 10px 7px 10px;
+}
+
+#header a
+{
+    color: #ffffff;
+}
+
+#footer
+{
+    margin: 30px auto 0px auto;
+    text-align: center;
+    width: 1180px;
+    border-top: 1px #cccccc solid;
+    padding-top:10px;
+    font-size: 10px;
+}
+
+#logo
+{
+    border: 0px #666666 solid;
+    margin: 0 0 0 -10px;
+}
+
+.section_thumb, .gallery_thumb, .random_thumb
+{
+    border: 5px #ffa07a solid;
+    padding: 2px;
+    margin: 1px;
+}
+
+.gallery_h1, .section_h1
+{
+}
+
+#face_thumbs
+{
+    float: left;
+    margin-right: 20px;
+}
+
+#categories_list
+{
+
+}
+
+#main_image
+{
+    border: 0px #ffa07a solid;
+    padding: 0px;
+    margin: 0px 108px 20px 0px;
+    float:left;
+}
+
+#breadcrumbs
+{
+    margin-bottom: 10px;
+}
+
+.paysite_star
+{
+    vertical-align: middle;
+}
+
+.paysite_join_link
+{
+    font-size: 30px;
+}
+
+.section_thumb_subtext
+{
+    font-size:10px;
+    margin-bottom:5px;
+}
+
+.richcategories_table td
+{
+    padding-bottom: 20px;
+    text-align: center;
+}

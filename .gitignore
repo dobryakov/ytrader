@@ -1,0 +1,15 @@
+/admin/protected/config/console.php
+/admin/protected/config/main.php
+/admin/protected/config/test.php
+/admin/protected/runtime
+/admin/assets
+/ytrader/assets
+/ytrader/protected/config/console.php
+/ytrader/protected/config/cron.php
+/ytrader/protected/config/main.php
+/ytrader/protected/config/test.php
+/ytrader/protected/runtime
+/ytrader/protected/tmp
+/ytrader/static
+/ytrader/thumbs
+/.idea

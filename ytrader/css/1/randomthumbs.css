@@ -1,0 +1,23 @@
+
+.randomthumbs_table
+{
+
+}
+
+.randomthumbs_table td
+{
+    width: 171px;
+    text-align: left;
+    vertical-align: top;
+    padding-bottom: 10px;
+}
+
+.random_thumb_link
+{
+
+}
+
+.random_thumb
+{
+    border:2px #ffcc99 solid;
+}

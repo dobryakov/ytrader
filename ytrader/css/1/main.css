@@ -1,0 +1,164 @@
+body
+{
+background-color:#FFFFFF;
+color:#000000;
+font-family:Tahoma,sans-serif;
+}
+.logo
+{
+margin-left:-10px;
+margin-bottom:15px;
+}
+.logotext
+{
+color:#CCCCCC;
+font-size:12px;
+}
+.featured_thumb
+{
+border:2px #ffcc99 solid;
+}
+.featured_link
+{
+font-size:18px;
+}
+.featured_category
+{
+font-size:14px;
+}
+.featured_views
+{
+font-size:14px;
+}
+.featured_stars
+{
+margin-top:5px;
+margin-bottom:5px;
+}
+.thumb_link
+{
+font-size:11px;
+}
+.thumb_category
+{
+font-size:10px;
+}
+.thumb_views
+{
+font-size:11px;
+}
+.thumb_stars
+{
+margin-top:1px;
+margin-left:3px;
+}
+#gallery_content
+{
+width: 1270px;
+margin: 0 auto 0 auto;
+}
+.thumb, .section_thumb, .gallery_thumb
+{
+border:2px #ffcc99 solid;
+margin-left:0px;
+}
+.h
+{
+font-size:18px;
+}
+a
+{
+color:#0066cc;
+}
+.copyright
+{
+color:#999999;
+font-size:11px;
+}
+.uploaded_by
+{
+color:#999999;
+font-size:11px;
+}
+.search_input
+{
+border:1px #999999 solid;
+font-size:12px;
+color:#666666;
+width:280px;
+}
+.search_button
+{
+background-color:#33cc33;
+color:#FFFFFF;
+border:0px;
+width:80px;
+font-weight:bold;
+}
+h1
+{
+padding: 0px;
+margin: 10px 0px 10px 0px;
+font-size: 16px;
+}
+.richcategories_table td, .gallery_table td, .face_table td, .suggest_table td, .random_galleries td
+{
+    width: 171px;
+    text-align: left;
+    vertical-align: top;
+    padding-bottom: 10px;
+}
+.richcategories_underthumb_link
+{
+    font-size: 12px;
+}
+.categories_table td
+{
+    padding-right: 15px;
+}
+.breadcrumbs
+{
+    font-size: 12px;
+    margin: 15px 0px 15px 0px;
+}
+.random_thumb
+{
+    border:2px #ffcc99 solid;
+    margin-right: 10px;
+}
+.main_image_img
+{
+    margin:0px 15px 15px 0px;
+    border:2px #ffcc99 solid;
+}
+.paysite_join_link
+{
+    font-size: 30px;
+}
+.section_thumb_subtext
+{
+    text-align: left;
+    font-size: 11px;
+}
+.suggest_div
+{
+    border-left: 1px solid #666666;
+    padding: 0 15px;
+}
+.suggest_table
+{
+    width: 350px;
+}
+.suggest_description
+{
+    font-size:12px;
+}
+.content_page
+{
+    width: 1210px;
+    margin: 0 auto 0 auto;
+}
+#addthis
+{
+    margin-left: 175px;
+}

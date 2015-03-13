@@ -1,0 +1,26 @@
+
+#section_table
+{
+
+}
+
+#section_table tr
+{
+    vertical-align: top;
+}
+
+#section_table td
+{
+
+}
+
+.face_suggest_divider
+{
+    width: 35px;
+}
+
+#sponsorlist_div
+{
+    border-left: 1px #000000 solid;
+    padding-left: 15px;
+}

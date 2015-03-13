@@ -1,0 +1,20 @@
+
+.face_table
+{
+
+}
+
+.face_table td
+{
+    width: 171px;
+    text-align: left;
+    vertical-align: top;
+    padding-bottom: 10px;
+}
+
+.section_thumb_subtext
+{
+    text-align: left;
+    font-size: 11px;
+    margin-top: 2px;
+}

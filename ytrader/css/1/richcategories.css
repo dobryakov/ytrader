@@ -1,0 +1,29 @@
+.richcategories_table
+{
+
+}
+
+.richcategories_table td
+{
+    width: 179px;
+    text-align: center;
+    vertical-align: top;
+    padding-bottom: 22px;
+    border: 0px;
+}
+
+.section_thumb
+{
+    border:2px #ffcc99 solid;
+}
+
+.section_thumb_link
+{
+
+}
+
+.richcategories_underthumb_link
+{
+    font-size: 22px;
+    font-weight: bold;
+}

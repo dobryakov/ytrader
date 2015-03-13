@@ -1,0 +1,39 @@
+
+.gallery_table
+{
+
+}
+
+.gallery_table td
+{
+    width: 171px;
+    text-align: left;
+    vertical-align: top;
+    padding-bottom: 10px;
+}
+
+.face_thumb_link
+{
+
+}
+
+.gallery_thumb
+{
+    border:2px #ffcc99 solid;
+    margin-left:0px;
+}
+
+#gallery_suggest_divider
+{
+    width: 35px;
+}
+
+#gallery_suggest_column
+{
+    width: 360px;
+}
+
+.gallery_description
+{
+    font-size: 12px;
+}

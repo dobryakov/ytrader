@@ -1,0 +1,24 @@
+
+.suggest_div
+{
+    border-left: 1px solid #666666;
+    padding-left: 15px;
+}
+
+.suggest_table
+{
+
+}
+
+.suggest_table td
+{
+    width: 171px;
+    text-align: left;
+    vertical-align: top;
+    padding-bottom: 10px;
+}
+
+.suggest_description
+{
+    font-size: 12px;
+}

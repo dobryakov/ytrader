@@ -1,0 +1,17 @@
+DirectoryIndex index.php index.shtml index.html
+
+RewriteEngine on
+
+RewriteCond %{HTTP_HOST} ^xyz.com
+RewriteRule (.*) http://www.xyz.com/$1 [R=301,L]
+
+#RewriteCond %{REQUEST_URI} ^/static/thumbs/(\d+)/(\d+)/(\d+)\.jpg$
+#RewriteCond %{REQUEST_FILENAME} !-f
+#RewriteRule ^static/thumbs/(\d+)/(\d+)/(\d+)\.jpg$ / [L]
+
+# if a directory or a file exists, use it directly
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+# otherwise forward it to index.php
+RewriteRule . index.php
